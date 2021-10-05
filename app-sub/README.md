@@ -1,6 +1,6 @@
 # qiankun-main-seeai-vue-template-mobile
 
-恒企SEEAI平台前端项目开发的通用乾坤微服务vue3主应用移动端模板([6+通用模板源PC端主应用](https://gitee.com/xccjh-zjh))，支持微服务多应用。
+恒企SEEAI平台前端项目开发的通用乾坤微服务vue3主应用移动端模板([6+通用模板源](https://gitee.com/xccjh-zjh))，支持微服务多应用。
 
 ![](https://xccjhzjh.oss-cn-hongkong.aliyuncs.com/xccjh-images/seeai-template-mobile.gif)
 
