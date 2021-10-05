@@ -5,7 +5,7 @@
 ![](https://xccjhzjh.oss-cn-hongkong.aliyuncs.com/xccjh-images/seeai-template-mobile.gif)
 
 ## 技术栈
-[vue3](https://v3.cn.vuejs.org/)+[typescript](https://www.tslang.cn/)+[ant-design-vue](https://2x.antdv.com/components/overview-cn/)+[qiankun](https://qiankun.umijs.org/zh)+ [ckeditor5-xccjh](https://gitee.com/xccjh/ckeditor5-xccjh) + [vue3-theme-peel](https://gitee.com/xccjh/vue3-theme-peel) + 
+[vue3](https://v3.cn.vuejs.org/)+[typescript](https://www.tslang.cn/)+[vant](https://vant-contrib.gitee.io/vant/v3/#/zh-CN/quickstart#fang-shi-yi.-tong-guo-babel-cha-jian-an-xu-yin-ru-zu-jian)+[qiankun](https://qiankun.umijs.org/zh)+ [ckeditor5-xccjh](https://gitee.com/xccjh/ckeditor5-xccjh) + [vue3-theme-peel](https://gitee.com/xccjh/vue3-theme-peel) + 
 [vue3-draggable-drop](https://gitee.com/xccjh/vue3-draggable-drop)
 
 ## 项目运行
